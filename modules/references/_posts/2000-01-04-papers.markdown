@@ -1,0 +1,24 @@
+---
+title: Research Papers
+---
+
+# Research Papers
+
+- [Are Markets Efficient?](http://review.chicagobooth.edu/economics/2016/video/are-markets-efficient)
+
+- [Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers](https://www.chicagobooth.edu/~/media/FE874EE65F624AAEBD0166B1974FD74D.pdf)
+
+- [Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about Future Earnings?](http://econ.au.dk/fileadmin/Economics_Business/Education/Summer_University_2012/6308_Advanced_Financial_Accounting/Advanced_Financial_Accounting/2/Sloan_1996_TAR.pdf)
+
+- [Betting Against Beta](http://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf)
+
+- [Momentum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=299107)
+
+- [Separating Winners from Losers Among Low Book-to-Market Stocks Using Financial Statement Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=403180)
+
+- [The 101 Ways to Measure Portfolio Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1326076)
+
+- [Does the Composition of the Market Portfolio Really Matter?](https://faculty.mccombs.utexas.edu/keith.brown/Research/JPM-12.87.pdf)
+
+- [Pairs Trading: Performance of a Relative Value Arbitrage Rule](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615)
+
