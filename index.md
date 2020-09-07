@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## QF101 by CEV Aryavarta, NIT Surat
+## QF101 by CEV Aryavarta
 
 ---
 
