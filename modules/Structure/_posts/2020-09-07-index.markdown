@@ -8,4 +8,5 @@ title: Course Strucutre
 The course will try to follow this flow. Please have a look.
 
 
-![Course structure](/modules/Structure/_posts/QF101.png)
+![Course structure]("https://raw.githubusercontent.com/high-in-entropy/quant-finance/gh-pages/modules/Structure/_posts/QF101.png")
+/modules/Structure/_posts/QF101.png)
