@@ -8,34 +8,42 @@ title: Course Strucutre
 The course will try to follow this flow. Please have a look.
 
 
-* **Week 1 : Brushing up coding skills, Python** </br></br>
+* **Week 1 : Brushing up coding skills, Python** 
+
 Basic hands on coding, Python with emphasis on its libraries :
 Matplotlib, Pandas, NumPy, SciPy, Seaborn. Apply the learning
-on a Data Analytical Exercise (Just to gain some Data intuition)</br>
+on a Data Analytical Exercise (Just to gain some Data intuition)
 
-* **Week 2 : Finance 101 - Basics of Markets**</br></br>
+* **Week 2 : Finance 101 - Basics of Markets**
+
 Idea of how Finances work, Concept of Money, Markets -
 Commodities, Equities, Derivatives, Government Bonds, etc.
 Basics of Stock Market and developing a compatibility with
 World Business/Financial Market news.</br>
 
-* **Week 3 : Mathematical Finance and Python - I**</br></br>
-**Math** : Regression Analysis, VAR Models, Time Series Analysis</br>
+* **Week 3 : Mathematical Finance and Python - I**
+
+**Math** : Regression Analysis, VAR Models, Time Series Analysis
 **Python** : Applying Python to Risk-Return Concepts, Markowitz
 and other Portfolio Optimization models</br>
 
-* **Week 4 : Mathematical Finance and Python - II**</br></br>
-**Math** : Regression Analysis, VAR Models, Time Series Analysis</br>
+* **Week 4 : Mathematical Finance and Python - II**
+
+**Math** : Regression Analysis, VAR Models, Time Series Analysis
+
 **Python** : Applying Python to Risk-Return Concepts, Markowitz
 and other Portfolio Optimization models.</br>
 
-* **Week 5 : Mathematical Finance and Python - III**</br></br>
+* **Week 5 : Mathematical Finance and Python - III**
+
 **Math** : Volatility Modelling, Regularized Pricing and Risk Models,
-TS Analysis.</br>
+TS Analysis.
+
 **Python** : Practice of Algorithmic Trading, 5 Technical Indicators,
 Introduction to Strategies.</br>
 
-* **Week 6 : Assignments and Tests**</br></br>
+* **Week 6 : Assignments and Tests**
+
 Testing on the basis of what we learn in 5 Weeks. Top Achievers
 will be carefully noted and will be considered for important
 Positions of Responsibility which we are soon going to open up
