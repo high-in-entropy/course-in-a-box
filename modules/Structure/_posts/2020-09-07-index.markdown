@@ -8,5 +8,36 @@ title: Course Strucutre
 The course will try to follow this flow. Please have a look.
 
 
-![Course structure]("https://raw.githubusercontent.com/high-in-entropy/quant-finance/gh-pages/modules/Structure/_posts/QF101.png")
-/modules/Structure/_posts/QF101.png)
+* **Week 1 : Brushing up coding skills, Python** </br></br>
+Basic hands on coding, Python with emphasis on its libraries :
+Matplotlib, Pandas, NumPy, SciPy, Seaborn. Apply the learning
+on a Data Analytical Exercise (Just to gain some Data intuition)</br>
+
+* **Week 2 : Finance 101 - Basics of Markets**</br></br>
+Idea of how Finances work, Concept of Money, Markets -
+Commodities, Equities, Derivatives, Government Bonds, etc.
+Basics of Stock Market and developing a compatibility with
+World Business/Financial Market news.</br>
+
+* **Week 3 : Mathematical Finance and Python - I**</br></br>
+**Math** : Regression Analysis, VAR Models, Time Series Analysis</br>
+**Python** : Applying Python to Risk-Return Concepts, Markowitz
+and other Portfolio Optimization models</br>
+
+* **Week 4 : Mathematical Finance and Python - II**</br></br>
+**Math** : Regression Analysis, VAR Models, Time Series Analysis</br>
+**Python** : Applying Python to Risk-Return Concepts, Markowitz
+and other Portfolio Optimization models.</br>
+
+* **Week 5 : Mathematical Finance and Python - III**</br></br>
+**Math** : Volatility Modelling, Regularized Pricing and Risk Models,
+TS Analysis.</br>
+**Python** : Practice of Algorithmic Trading, 5 Technical Indicators,
+Introduction to Strategies.</br>
+
+* **Week 6 : Assignments and Tests**</br></br>
+Testing on the basis of what we learn in 5 Weeks. Top Achievers
+will be carefully noted and will be considered for important
+Positions of Responsibility which we are soon going to open up
+within CEV and CEV Aryavarta.
+
