@@ -31,7 +31,7 @@ The candidates are mostly engineering undergrads or pure science majors  (math, 
 
 ---
 
-This course is designed in such a way that we will explore the required math and coding skills in parallel. The math models, methods which you'll learn in a week will be applied in a programmatic way using Python. The course flow can be viewed here.
+This course is designed in such a way that we will explore the required math and coding skills in parallel. The math models, methods which you'll learn in a week will be applied in a programmatic way using Python. The course flow can be viewed [here](https://high-in-entropy.github.io/quant-finance/modules/structure/index/).
 
 We will cover :
 
