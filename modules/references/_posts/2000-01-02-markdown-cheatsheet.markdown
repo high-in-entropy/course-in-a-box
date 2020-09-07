@@ -1,91 +1,37 @@
 ---
-title: Markdown Cheatsheet
+title: Tutorials
 ---
 
-# Markdown Cheatsheet
+# Tutorials
 
-Markdown is a plain text formatting language which has been designed to be easily converted to HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. This cheatsheet will help you to get going using Markdown.
+- [Algorithmic Trading Strategies](https://www.experfy.com/training/courses/algorithmic-trading-strategies)
 
-**Some bold text**
+- [Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
-```
-**Some bold text**
-```
+- [Computational Investing, Part I](https://www.coursera.org/learn/computational-investing)
 
-----
+- [Financial Engineering and Risk Management Part I](https://www.coursera.org/learn/financial-engineering-1/)
 
-*Some italics*
+- [Financial Engineering and Risk Management Part II](https://www.coursera.org/learn/financial-engineering-2/)
 
-```
-*Some italics*
-```
+- [MIT Open Courseware - Analytics of Finance](https://ocw.mit.edu/courses/sloan-school-of-management/15-450-analytics-of-finance-fall-2010/)
 
-----
+- [MIT Open Courseware - Investments](https://ocw.mit.edu/courses/sloan-school-of-management/15-433-investments-spring-2003/)
 
-# Heading 1
-## Heading 2
-### Heading 3
+- [MIT Open Courseware - Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
-    # Heading 1
-    ## Heading 2
-    ### Heading 3
+- [Machine Learning and Reinforcement Learning in Finance Specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 
-or
+- [Machin Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 
-    Heading 1
-    =========
-    Heading 2
-    ---------
-    ### Heading 3
+- [Model a Quantitative Trading Strategy in R](https://www.datacamp.com/courses/model-a-quantitative-trading-strategy-in-r/)
 
-----
+- [Trading Strategies in Emerging Markets Specialization](https://www.coursera.org/specializations/trading-strategy)
 
-- list item
-- list item
- - sub list item 
-- list item
- 1. numbered sub list item 1
- 1. numbered sub list item 2
- 1. numbered sub list item 3
+- [Time Series with R](https://www.datacamp.com/tracks/time-series-with-r)
 
-```
-- list item
-- list item
- - sub list item 
-- list item
- 1. numbered sub list item 1
- 1. numbered sub list item 2
- 1. numbered sub list item 3
-```
+- [Quantitative  Analyst with R](https://www.datacamp.com/tracks/quantitative-analyst-with-r)
 
-----
 
-[link to p2pu](https://p2pu.org)
 
-```
-[link to p2pu](https://p2pu.org)
-```
 
-----
-
-![Alternative text for image](https://p2pu.org/static/images/homepage/logo-p2pu-menu.png)
-
-```
-![Alternative text for image](https://p2pu.org/static/images/homepage/logo-p2pu-menu.png)
-```
-
-----
-
-<iframe width="640" height="360" src="//www.youtube.com/embed/5LtpOZT0z7E" frameborder="0" allowfullscreen></iframe>
-
-```
-<iframe width="640" height="360" src="//www.youtube.com/embed/5LtpOZT0z7E" frameborder="0" allowfullscreen></iframe>
-```
-
-----
-
-<a class="btn btn-primary" href="#"><i class="fa fa-home"></i> A fancy button</a>
-
-```
-<a class="btn btn-primary" href="#"><i class="fa fa-home"></i> A fancy button</a>
-```
