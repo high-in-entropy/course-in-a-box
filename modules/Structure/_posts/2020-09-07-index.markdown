@@ -15,12 +15,16 @@ Basic hands on coding, Python with emphasis on its libraries :
 Matplotlib, Pandas, NumPy, SciPy, Seaborn. Apply the learning
 on a Data Analytical Exercise (Just to gain some Data intuition)
 
+---
+
 * **Week 2 : Finance 101 - Basics of Markets**
 
 Idea of how Finances work, Concept of Money, Markets -
 Commodities, Equities, Derivatives, Government Bonds, etc.
 Basics of Stock Market and developing a compatibility with
 World Business/Financial Market news.
+
+---
 
 * **Week 3 : Mathematical Finance and Python - I**
 
@@ -29,12 +33,16 @@ World Business/Financial Market news.
 **Python** : Applying Python to Risk-Return Concepts, Markowitz
 and other Portfolio Optimization models
 
+---
+
 * **Week 4 : Mathematical Finance and Python - II**
 
 **Math** : Regression Analysis, VAR Models, Time Series Analysis
 
 **Python** : Applying Python to Risk-Return Concepts, Markowitz
 and other Portfolio Optimization models.
+
+---
 
 * **Week 5 : Mathematical Finance and Python - III**
 
@@ -43,6 +51,8 @@ TS Analysis.
 
 **Python** : Practice of Algorithmic Trading, 5 Technical Indicators,
 Introduction to Strategies.
+
+---
 
 * **Week 6 : Assignments and Tests**
 
