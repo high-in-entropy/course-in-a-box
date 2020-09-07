@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Quantitative Finance by Cutting Edge Visionaries, NIT Surat
+## QF101 by CEV Aryavarta, NIT Surat
 
 ---
 
