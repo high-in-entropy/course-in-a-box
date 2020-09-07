@@ -2,6 +2,6 @@
 title: About Course in a Box
 ---
 
-# Course in a Box
+# Course Assignments
 
 Tutorials/assignments will be uploaded as the course proceeds. Keep checking this tab as and when instructed.
