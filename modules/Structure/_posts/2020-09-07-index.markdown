@@ -7,6 +7,7 @@ title: Course Strucutre
 
 The course will try to follow this flow. Please have a look.
 
+---
 
 * **Week 1 : Brushing up coding skills, Python** 
 
@@ -19,21 +20,21 @@ on a Data Analytical Exercise (Just to gain some Data intuition)
 Idea of how Finances work, Concept of Money, Markets -
 Commodities, Equities, Derivatives, Government Bonds, etc.
 Basics of Stock Market and developing a compatibility with
-World Business/Financial Market news.</br>
+World Business/Financial Market news.
 
 * **Week 3 : Mathematical Finance and Python - I**
 
 **Math** : Regression Analysis, VAR Models, Time Series Analysis
 
 **Python** : Applying Python to Risk-Return Concepts, Markowitz
-and other Portfolio Optimization models</br>
+and other Portfolio Optimization models
 
 * **Week 4 : Mathematical Finance and Python - II**
 
 **Math** : Regression Analysis, VAR Models, Time Series Analysis
 
 **Python** : Applying Python to Risk-Return Concepts, Markowitz
-and other Portfolio Optimization models.</br>
+and other Portfolio Optimization models.
 
 * **Week 5 : Mathematical Finance and Python - III**
 
@@ -41,7 +42,7 @@ and other Portfolio Optimization models.</br>
 TS Analysis.
 
 **Python** : Practice of Algorithmic Trading, 5 Technical Indicators,
-Introduction to Strategies.</br>
+Introduction to Strategies.
 
 * **Week 6 : Assignments and Tests**
 
@@ -50,3 +51,4 @@ will be carefully noted and will be considered for important
 Positions of Responsibility which we are soon going to open up
 within CEV and CEV Aryavarta.
 
+---
