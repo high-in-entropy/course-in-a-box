@@ -1,0 +1,47 @@
+---
+title: Content
+published: true
+---
+
+# Week 1
+
+Welcome to the course! We are happy that you decided to pick this course up. We hope that it will be an enriching experience for all of us. Week 1 will deal with getting started
+with coding. This will include setting up your system, learning the basics of Python and its related libraries. 
+
+## Week 1 Objective
+
+- Code any given algorithm/problem statement using Python.
+- Learn some vital data libraries in Python. 
+- Able to quickly search for a functionality on the web. For example, a statistical function needed in an analytical project.
+- Data intuition. Play around with data, use your creativity and analytical skills to find information out of structured Data Sets intuitively.
+
+## Week 1 Resources
+
+1. **Introduction to Python Programming Language.**
+
+We believe it's better to learn coding by doing. If you're a complete newbie, you may solve the first few questions available at [HackerRank Pyhton](https://www.hackerrank.com/domains/python).
+You'd have to make an account if you don't have one. 
+**Solve the first 12 problems (till "Tuples")**. 
+
+*Note: You may skip this if you're already comfortable with the very basics of Python.*
+
+2. **Setup and install Anaconda for Python**
+
+The process can be quickly learned on the web, in case of any doubt, you may ask us in the communication groups. 
+
+3. Get accustomed to Jupyter Notebooks. 
+
+4. **Learn Python Libraries** 
+
+* [Pandas](https://youtu.be/vmEHCJofslg)
+* [Matplotlib](https://youtu.be/yZTBMMdPOww)
+* [NumPy](https://youtu.be/8JfDAm9y_7s) and [NumPy official Docs](https://numpy.org/doc/stable/user/absolute_beginners.html)
+* [Seaborn Playlist](https://www.youtube.com/playlist?list=PL6_D9USWkG1Bu9oQHvqAeurX-hhq_mZNi)
+* [SciPy](https://youtu.be/k8s-R3csOt0)
+
+5. **Data Intuition**
+
+Setup a Kaggle Account. Pick one Dataset and start analysing using the week's learning! 
+
+6. This Week's done. If still some days are left, watch some good movies :) Contact us we have a wonderful list of movies with us at CEV. 
+
