@@ -1,5 +1,5 @@
 ---
-title: Content
+title: Week 1
 published: true
 ---
 
@@ -33,11 +33,11 @@ The process can be quickly learned on the web, in case of any doubt, you may ask
 
 - **Learn Python Libraries** 
 
--> [Pandas](https://youtu.be/vmEHCJofslg)
--> [Matplotlib](https://youtu.be/yZTBMMdPOww)
--> [NumPy](https://youtu.be/8JfDAm9y_7s) and [NumPy official Docs](https://numpy.org/doc/stable/user/absolute_beginners.html)
--> [Seaborn Playlist](https://www.youtube.com/playlist?list=PL6_D9USWkG1Bu9oQHvqAeurX-hhq_mZNi)
--> [SciPy](https://youtu.be/k8s-R3csOt0)
+- [Pandas](https://youtu.be/vmEHCJofslg)
+- [Matplotlib](https://youtu.be/yZTBMMdPOww)
+- [NumPy](https://youtu.be/8JfDAm9y_7s) and [NumPy official Docs](https://numpy.org/doc/stable/user/absolute_beginners.html)
+- [Seaborn Playlist](https://www.youtube.com/playlist?list=PL6_D9USWkG1Bu9oQHvqAeurX-hhq_mZNi)
+- [SciPy](https://youtu.be/k8s-R3csOt0)
 
 - **Data Intuition**
 
