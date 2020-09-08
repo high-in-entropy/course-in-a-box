@@ -28,10 +28,9 @@ World Business/Financial Market news.
 
 * **Week 3 : Mathematical Finance and Python - I**
 
-**Math** : Regression Analysis, VAR Models, Time Series Analysis
+**Math** : Linear Algebra, Probability Theory, Stochastic Processes.
 
-**Python** : Applying Python to Risk-Return Concepts, Markowitz
-and other Portfolio Optimization models
+**Python** : Using Python for basic Financial Data Analysis.
 
 ---
 
