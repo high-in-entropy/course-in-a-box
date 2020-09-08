@@ -8,7 +8,7 @@ published: true
 Welcome to the course! We are happy that you decided to pick this course up. We hope that it will be an enriching experience for all of us. Week 1 will deal with getting started
 with coding. This will include setting up your system, learning the basics of Python and its related libraries. 
 
-## Week 1 Objective
+## Week 1 Objectives
 
 - Code any given algorithm/problem statement using Python.
 - Learn some vital data libraries in Python. 
